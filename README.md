@@ -2,6 +2,6 @@
 
 Fun little project
 
-Inspired by http://oisinmoran.com
+Inspired by https://oisinmoran.com/bb
 
 ### The design is very human
